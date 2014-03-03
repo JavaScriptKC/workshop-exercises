@@ -1,0 +1,1141 @@
+{
+  "total": 50,
+  "movies": [
+    {
+      "id": "771250004",
+      "title": "The Hunger Games: Catching Fire",
+      "year": 2013,
+      "mpaa_rating": "PG-13",
+      "runtime": 146,
+      "critics_consensus": "Smart, smoothly directed, and enriched with a deeper exploration of the franchise's thought-provoking themes, Catching Fire proves a thoroughly compelling second installment in the Hunger Games series.",
+      "release_dates": {
+        "theater": "2013-11-22",
+        "dvd": "2014-03-07"
+      },
+      "ratings": {
+        "critics_rating": "Certified Fresh",
+        "critics_score": 89,
+        "audience_rating": "Upright",
+        "audience_score": 91
+      },
+      "synopsis": "THE HUNGER GAMES: CATCHING FIRE begins as Katniss Everdeen has returned home safe after winning the 74th Annual Hunger Games along with fellow tribute Peeta Mellark. Winning means that they must turn around and leave their family and close friends, embarking on a \"Victor's Tour\" of the districts. Along the way Katniss senses that a rebellion is simmering, but the Capitol is still very much in control as President Snow prepares the 75th Annual Hunger Games (The Quarter Quell) - a competition that could change Panem forever. (c) Lionsgate",
+      "posters": {
+        "thumbnail": "http://content6.flixster.com/movie/11/17/64/11176484_mob.jpg",
+        "profile": "http://content6.flixster.com/movie/11/17/64/11176484_pro.jpg",
+        "detailed": "http://content6.flixster.com/movie/11/17/64/11176484_det.jpg",
+        "original": "http://content6.flixster.com/movie/11/17/64/11176484_ori.jpg"
+      },
+      "abridged_cast": [
+        {
+          "name": "Jennifer Lawrence",
+          "id": "770800260",
+          "characters": [
+            "Katniss Everdeen"
+          ]
+        },
+        {
+          "name": "Josh Hutcherson",
+          "id": "162654356",
+          "characters": [
+            "Peeta Mellark"
+          ]
+        },
+        {
+          "name": "Liam Hemsworth",
+          "id": "770833479",
+          "characters": [
+            "Gale Hawthorne"
+          ]
+        },
+        {
+          "name": "Elizabeth Banks",
+          "id": "162653584",
+          "characters": [
+            "Effie Trinket"
+          ]
+        },
+        {
+          "name": "Stanley Tucci",
+          "id": "162661152",
+          "characters": [
+            "Caesar Flickerman"
+          ]
+        }
+      ],
+      "alternate_ids": {
+        "imdb": "1951264"
+      },
+      "links": {
+        "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/771250004.json",
+        "alternate": "http://www.rottentomatoes.com/m/the_hunger_games_catching_fire/",
+        "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/771250004/cast.json",
+        "clips": "http://api.rottentomatoes.com/api/public/v1.0/movies/771250004/clips.json",
+        "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/771250004/reviews.json",
+        "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/771250004/similar.json"
+      }
+    },
+    {
+      "id": "771316210",
+      "title": "12 Years a Slave",
+      "year": 2013,
+      "mpaa_rating": "R",
+      "runtime": 134,
+      "critics_consensus": "It's far from comfortable viewing, but 12 Years a Slave's unflinchingly brutal look at American slavery is also brilliant -- and quite possibly essential -- cinema.",
+      "release_dates": {
+        "theater": "2013-10-18",
+        "dvd": "2014-03-04"
+      },
+      "ratings": {
+        "critics_rating": "Certified Fresh",
+        "critics_score": 96,
+        "audience_rating": "Upright",
+        "audience_score": 92
+      },
+      "synopsis": "Chiwetel Ejiofor stars as Solomon Northup, the New York State citizen who was kidnapped and made to work on a plantation in New Orleans in the 1800s. Steve McQueen (Hunger) directs from a script he co-wrote with John Ridley, based in part by Northup's memoir. Michael Fassbender, Brad Pitt, Benedict Cumberbatch, Sarah Paulson, and Paul Giamatti co-star. ~ Jeremy Wheeler, Rovi",
+      "posters": {
+        "thumbnail": "http://content9.flixster.com/movie/11/17/64/11176495_mob.jpg",
+        "profile": "http://content9.flixster.com/movie/11/17/64/11176495_pro.jpg",
+        "detailed": "http://content9.flixster.com/movie/11/17/64/11176495_det.jpg",
+        "original": "http://content9.flixster.com/movie/11/17/64/11176495_ori.jpg"
+      },
+      "abridged_cast": [
+        {
+          "name": "Chiwetel Ejiofor",
+          "id": "162654272",
+          "characters": [
+            "Solomon Northrup",
+            "Solomon Northup"
+          ]
+        },
+        {
+          "name": "Michael Fassbender",
+          "id": "364641814",
+          "characters": [
+            "Edwin Epps"
+          ]
+        },
+        {
+          "name": "Brad Pitt",
+          "id": "162652627",
+          "characters": [
+            "Bass"
+          ]
+        },
+        {
+          "name": "Benedict Cumberbatch",
+          "id": "355028249",
+          "characters": [
+            "Ford"
+          ]
+        },
+        {
+          "name": "Paul Giamatti",
+          "id": "162683649",
+          "characters": [
+            "Freeman"
+          ]
+        }
+      ],
+      "links": {
+        "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/771316210.json",
+        "alternate": "http://www.rottentomatoes.com/m/12_years_a_slave/",
+        "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/771316210/cast.json",
+        "clips": "http://api.rottentomatoes.com/api/public/v1.0/movies/771316210/clips.json",
+        "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/771316210/reviews.json",
+        "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/771316210/similar.json"
+      }
+    },
+    {
+      "id": "771319570",
+      "title": "Oldboy",
+      "year": 2013,
+      "mpaa_rating": "R",
+      "runtime": 104,
+      "critics_consensus": "Suitably grim and bloody yet disappointingly safe and shallow, Spike Lee's Oldboy remake neither surpasses the original nor adds anything new to its impressive legacy.",
+      "release_dates": {
+        "theater": "2013-11-27",
+        "dvd": "2014-03-04"
+      },
+      "ratings": {
+        "critics_rating": "Rotten",
+        "critics_score": 44,
+        "audience_rating": "Spilled",
+        "audience_score": 37
+      },
+      "synopsis": "OLDBOY is a provocative, visceral thriller that follows the story of Joe Doucette, a man who is abruptly kidnapped and held hostage for 20 years in solitary confinement, for no apparent reason. When he is suddenly released without explanation, he begins an obsessive mission to find out who imprisoned him, only to discover that the real mystery is why he was set free. Co-starring Elizabeth Olsen and Sharlto Copley, OLDBOY was directed by Spike Lee, from a script by Mark Protosevich (I Am Legend, The Cell, Thor). The film was produced by Roy Lee, Doug Davison and Nathan Kahane. (c) FilmDistrict",
+      "posters": {
+        "thumbnail": "http://content7.flixster.com/movie/11/17/22/11172241_mob.jpg",
+        "profile": "http://content7.flixster.com/movie/11/17/22/11172241_pro.jpg",
+        "detailed": "http://content7.flixster.com/movie/11/17/22/11172241_det.jpg",
+        "original": "http://content7.flixster.com/movie/11/17/22/11172241_ori.jpg"
+      },
+      "abridged_cast": [
+        {
+          "name": "Josh Brolin",
+          "id": "162654237",
+          "characters": [
+            "Joe Doucett"
+          ]
+        },
+        {
+          "name": "Elizabeth Olsen",
+          "id": "770827678",
+          "characters": [
+            "Marie Sebastian"
+          ]
+        },
+        {
+          "name": "Sharlto Copley",
+          "id": "770674319",
+          "characters": [
+            "Adrian/The Stranger"
+          ]
+        },
+        {
+          "name": "James Ransone",
+          "id": "599790325",
+          "characters": [
+            "Dr. Tom Melby"
+          ]
+        },
+        {
+          "name": "Samuel L. Jackson",
+          "id": "162652156",
+          "characters": [
+            "Chaney"
+          ]
+        }
+      ],
+      "alternate_ids": {
+        "imdb": "1321511"
+      },
+      "links": {
+        "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/771319570.json",
+        "alternate": "http://www.rottentomatoes.com/m/oldboy_2013/",
+        "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/771319570/cast.json",
+        "clips": "http://api.rottentomatoes.com/api/public/v1.0/movies/771319570/clips.json",
+        "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/771319570/reviews.json",
+        "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/771319570/similar.json"
+      }
+    },
+    {
+      "id": "771323481",
+      "title": "The Grandmaster",
+      "year": 2013,
+      "mpaa_rating": "PG-13",
+      "runtime": 130,
+      "critics_consensus": "Though its storytelling is a tad muddled, Wong Kar Wai's The Grandmaster still exhibits the auteur's stylistic flourishes in gorgeous cinematography and explosive action set pieces.",
+      "release_dates": {
+        "theater": "2013-08-23",
+        "dvd": "2014-03-04"
+      },
+      "ratings": {
+        "critics_rating": "Certified Fresh",
+        "critics_score": 75,
+        "audience_rating": "Upright",
+        "audience_score": 61
+      },
+      "synopsis": "Directed by acclaimed filmmaker Wong Kar Wai, THE GRANDMASTER is an epic action feature inspired by the life and times of the legendary kung fu master, Ip Man. The story spans the tumultuous Republican era that followed the fall of China's last dynasty, a time of chaos, division and war that was also the golden age of Chinese martial arts. Filmed in a range of stunning locations that include the snow-swept landscapes of Northeast China and the subtropical South, THE GRANDMASTER features virtuoso performances by some of the greatest stars of contemporary Asian cinema, including Tony Leung and Ziyi Zhang.(c) Weinstein",
+      "posters": {
+        "thumbnail": "http://content7.flixster.com/movie/11/17/30/11173049_mob.jpg",
+        "profile": "http://content7.flixster.com/movie/11/17/30/11173049_pro.jpg",
+        "detailed": "http://content7.flixster.com/movie/11/17/30/11173049_det.jpg",
+        "original": "http://content7.flixster.com/movie/11/17/30/11173049_ori.jpg"
+      },
+      "abridged_cast": [
+        {
+          "name": "Tony Leung",
+          "id": "771075657",
+          "characters": [
+            "Ip Man"
+          ]
+        },
+        {
+          "name": "Ziyi Zhang",
+          "id": "326392180",
+          "characters": [
+            "Gong Er"
+          ]
+        },
+        {
+          "name": "Chen Chang",
+          "id": "202626437",
+          "characters": [
+            "The Razor"
+          ]
+        },
+        {
+          "name": "Zhao Benshan",
+          "id": "770671828",
+          "characters": [
+            "Ding Lianshan"
+          ]
+        },
+        {
+          "name": "Xiao Shen-Yang",
+          "id": "770869370",
+          "characters": [
+            "San Jiang Shui"
+          ]
+        }
+      ],
+      "alternate_ids": {
+        "imdb": "1462900"
+      },
+      "links": {
+        "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/771323481.json",
+        "alternate": "http://www.rottentomatoes.com/m/the_grandmaster/",
+        "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/771323481/cast.json",
+        "clips": "http://api.rottentomatoes.com/api/public/v1.0/movies/771323481/clips.json",
+        "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/771323481/reviews.json",
+        "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/771323481/similar.json"
+      }
+    },
+    {
+      "id": "771351740",
+      "title": "Hours",
+      "year": 2013,
+      "mpaa_rating": "PG-13",
+      "runtime": 97,
+      "release_dates": {
+        "theater": "2013-12-13",
+        "dvd": "2014-03-04"
+      },
+      "ratings": {
+        "critics_rating": "Fresh",
+        "critics_score": 61,
+        "audience_rating": "Upright",
+        "audience_score": 61
+      },
+      "synopsis": "Before sunrise on August 29, 2005, Nolan Hayes (PAUL WALKER) arrives at a New Orleans hospital with his pregnant wife, Abigail (GENESIS RODRIGUEZ), who has gone into early labor. What should be one of the happiest days of Nolan's life quickly spirals out of control when the birth goes tragically wrong and Hurricane Katrina ravages the hospital, forcing an evacuation. Told to stay with his child, who is on a ventilator, and await transfer by ambulance, Nolan and his newborn are soon cut off from the world by power outages and rising floodwaters. When no one returns to help, Nolan faces one life-and-death decision after another, fighting to keep his daughter alive, as minute-by-agonizing minute passes...becoming unimaginable hours. (c) Pantalion",
+      "posters": {
+        "thumbnail": "http://content9.flixster.com/movie/11/17/46/11174663_mob.jpg",
+        "profile": "http://content9.flixster.com/movie/11/17/46/11174663_pro.jpg",
+        "detailed": "http://content9.flixster.com/movie/11/17/46/11174663_det.jpg",
+        "original": "http://content9.flixster.com/movie/11/17/46/11174663_ori.jpg"
+      },
+      "abridged_cast": [
+        {
+          "name": "Paul Walker",
+          "id": "162654234",
+          "characters": [
+            "Nolan Hayes"
+          ]
+        },
+        {
+          "name": "Genesis Rodriguez",
+          "id": "770770383",
+          "characters": [
+            "Abigail"
+          ]
+        },
+        {
+          "name": "Christopher Matthew Cook",
+          "id": "771439035",
+          "characters": [
+            "Lenny"
+          ]
+        },
+        {
+          "name": "Judd Derek Lormand",
+          "id": "771393814",
+          "characters": [
+            "Glenn"
+          ]
+        },
+        {
+          "name": "Nick Gomez",
+          "id": "162674482",
+          "characters": [
+            "Lobo"
+          ]
+        }
+      ],
+      "alternate_ids": {
+        "imdb": "2094018"
+      },
+      "links": {
+        "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/771351740.json",
+        "alternate": "http://www.rottentomatoes.com/m/hours_2013/",
+        "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/771351740/cast.json",
+        "clips": "http://api.rottentomatoes.com/api/public/v1.0/movies/771351740/clips.json",
+        "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/771351740/reviews.json",
+        "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/771351740/similar.json"
+      }
+    },
+    {
+      "id": "771355926",
+      "title": "The Last Days On Mars",
+      "year": 2013,
+      "mpaa_rating": "R",
+      "runtime": 91,
+      "critics_consensus": "Neither intelligent enough to work as thought-provoking sci-fi nor trashy enough to provide B-movie thrills, The Last Days on Mars proves as cinematically barren as the titular planet.",
+      "release_dates": {
+        "theater": "2013-12-06",
+        "dvd": "2014-03-04"
+      },
+      "ratings": {
+        "critics_rating": "Rotten",
+        "critics_score": 19,
+        "audience_rating": "Spilled",
+        "audience_score": 25
+      },
+      "synopsis": "On the last day of the first manned mission to Mars, a crew member of Tantalus Base believes he has made an astounding discovery - fossilized evidence of bacterial life. Unwilling to let the relief crew claim all the glory, he disobeys orders to pack up and goes out on an unauthorized expedition to collect further samples. But a routine excavation turns to disaster when the porous ground collapses, and he falls into a deep crevice and near certain death. His devastated colleagues attempt to recover his body. However, when another vanishes they start to suspect that the life-form they have discovered is not yet dead. As the group begins to fall apart it seems their only hope is the imminent arrival of the relief ship Aurora. (c) Magnolia",
+      "posters": {
+        "thumbnail": "http://content9.flixster.com/movie/11/17/35/11173567_mob.jpg",
+        "profile": "http://content9.flixster.com/movie/11/17/35/11173567_pro.jpg",
+        "detailed": "http://content9.flixster.com/movie/11/17/35/11173567_det.jpg",
+        "original": "http://content9.flixster.com/movie/11/17/35/11173567_ori.jpg"
+      },
+      "abridged_cast": [
+        {
+          "name": "Liev Schreiber",
+          "id": "162653994",
+          "characters": [
+            "Vincent Campbell"
+          ]
+        },
+        {
+          "name": "Romola Garai",
+          "id": "162663835",
+          "characters": [
+            "Rebecca Lane"
+          ]
+        },
+        {
+          "name": "Elias Koteas",
+          "id": "162654218",
+          "characters": [
+            "Charles Brunel"
+          ]
+        },
+        {
+          "name": "Olivia Williams",
+          "id": "162662296",
+          "characters": [
+            "Kim Aldrich"
+          ]
+        },
+        {
+          "name": "Johnny Harris",
+          "id": "385329965",
+          "characters": [
+            "Robert Irwin"
+          ]
+        }
+      ],
+      "alternate_ids": {
+        "imdb": "1709143"
+      },
+      "links": {
+        "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/771355926.json",
+        "alternate": "http://www.rottentomatoes.com/m/the_last_days_on_mars/",
+        "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/771355926/cast.json",
+        "clips": "http://api.rottentomatoes.com/api/public/v1.0/movies/771355926/clips.json",
+        "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/771355926/reviews.json",
+        "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/771355926/similar.json"
+      }
+    },
+    {
+      "id": "771247277",
+      "title": "Thor: The Dark World",
+      "year": 2013,
+      "mpaa_rating": "PG-13",
+      "runtime": 112,
+      "critics_consensus": "It may not be the finest film to come from the Marvel Universe, but Thor: The Dark World still offers plenty of the humor and high-stakes action that fans have come to expect.",
+      "release_dates": {
+        "theater": "2013-11-08",
+        "dvd": "2014-02-25"
+      },
+      "ratings": {
+        "critics_rating": "Fresh",
+        "critics_score": 65,
+        "audience_rating": "Upright",
+        "audience_score": 81
+      },
+      "synopsis": "Marvel's \"Thor: The Dark World\" continues the big-screen adventures of Thor, the Mighty Avenger, as he battles to save Earth and all the Nine Realms from a shadowy enemy that predates the universe itself. In the aftermath of Marvel's \"Thor\" and \"Marvel's The Avengers,\" Thor fights to restore order across the cosmos...but an ancient race led by the vengeful Malekith returns to plunge the universe back into darkness. Faced with an enemy that even Odin and Asgard cannot withstand, Thor must embark on his most perilous and personal journey yet, one that will reunite him with Jane Foster and force him to sacrifice everything to save us all. (c) Disney",
+      "posters": {
+        "thumbnail": "http://content8.flixster.com/movie/11/17/26/11172694_mob.jpg",
+        "profile": "http://content8.flixster.com/movie/11/17/26/11172694_pro.jpg",
+        "detailed": "http://content8.flixster.com/movie/11/17/26/11172694_det.jpg",
+        "original": "http://content8.flixster.com/movie/11/17/26/11172694_ori.jpg"
+      },
+      "abridged_cast": [
+        {
+          "name": "Chris Hemsworth",
+          "id": "770829335",
+          "characters": [
+            "Thor"
+          ]
+        },
+        {
+          "name": "Natalie Portman",
+          "id": "162652154",
+          "characters": [
+            "Jane Foster"
+          ]
+        },
+        {
+          "name": "Tom Hiddleston",
+          "id": "770837993",
+          "characters": [
+            "Loki"
+          ]
+        },
+        {
+          "name": "Stellan Skarsgard",
+          "id": "162684205",
+          "characters": [
+            "Dr. Erik Selvig"
+          ]
+        },
+        {
+          "name": "Idris Elba",
+          "id": "162654425",
+          "characters": [
+            "Heimdall"
+          ]
+        }
+      ],
+      "alternate_ids": {
+        "imdb": "1981115"
+      },
+      "links": {
+        "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/771247277.json",
+        "alternate": "http://www.rottentomatoes.com/m/thor_the_dark_world/",
+        "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/771247277/cast.json",
+        "clips": "http://api.rottentomatoes.com/api/public/v1.0/movies/771247277/clips.json",
+        "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/771247277/reviews.json",
+        "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/771247277/similar.json"
+      }
+    },
+    {
+      "id": "771205997",
+      "title": "Gravity",
+      "year": 2013,
+      "mpaa_rating": "PG-13",
+      "runtime": 124,
+      "critics_consensus": "Alfonso Cuaron's Gravity is an eerie, tense sci-fi thriller that's masterfully directed and visually stunning.",
+      "release_dates": {
+        "theater": "2013-10-04",
+        "dvd": "2014-02-25"
+      },
+      "ratings": {
+        "critics_rating": "Certified Fresh",
+        "critics_score": 97,
+        "audience_rating": "Upright",
+        "audience_score": 84
+      },
+      "synopsis": "Gravity stars Sandra Bullock and George Clooney in a heart-pounding thriller that pulls you into the infinite and unforgiving realm of deep space. Bullock plays Dr. Ryan Stone, a brilliant medical engineer on her first shuttle mission, with veteran astronaut Matt Kowalsky (Clooney). But on a seemingly routine spacewalk, disaster strikes. The shuttle is destroyed, leaving Stone and Kowalsky completely alone - tethered to nothing but each other and spiraling out into the blackness. The deafening silence tells them they have lost any link to Earth and any chance for rescue. As fear turns to panic, every gulp of air eats away at what little oxygen is left. But the only way home may be to go further out into the terrifying expanse of space. -- (C) Warner Bros.",
+      "posters": {
+        "thumbnail": "http://content8.flixster.com/movie/11/17/64/11176450_mob.jpg",
+        "profile": "http://content8.flixster.com/movie/11/17/64/11176450_pro.jpg",
+        "detailed": "http://content8.flixster.com/movie/11/17/64/11176450_det.jpg",
+        "original": "http://content8.flixster.com/movie/11/17/64/11176450_ori.jpg"
+      },
+      "abridged_cast": [
+        {
+          "name": "Sandra Bullock",
+          "id": "162652205",
+          "characters": [
+            "Dr. Ryan Stone"
+          ]
+        },
+        {
+          "name": "George Clooney",
+          "id": "162654528",
+          "characters": [
+            "Matt Kowalski"
+          ]
+        },
+        {
+          "name": "Ed Harris",
+          "id": "162654543",
+          "characters": [
+            "Mission Control Voice"
+          ]
+        },
+        {
+          "name": "Orto Ignatiussen",
+          "id": "771270460",
+          "characters": [
+            "Aningaaq Voice"
+          ]
+        },
+        {
+          "name": "Phaldut Sharma",
+          "id": "771466537",
+          "characters": [
+            "Shariff Voice"
+          ]
+        }
+      ],
+      "alternate_ids": {
+        "imdb": "1454468"
+      },
+      "links": {
+        "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/771205997.json",
+        "alternate": "http://www.rottentomatoes.com/m/gravity_2013/",
+        "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/771205997/cast.json",
+        "clips": "http://api.rottentomatoes.com/api/public/v1.0/movies/771205997/clips.json",
+        "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/771205997/reviews.json",
+        "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/771205997/similar.json"
+      }
+    },
+    {
+      "id": "771355253",
+      "title": "Nebraska",
+      "year": 2013,
+      "mpaa_rating": "R",
+      "runtime": 115,
+      "critics_consensus": "Elegant in its simplicity and poetic in its message, Nebraska adds another stirringly resonant chapter to Alexander Payne's remarkable filmography.",
+      "release_dates": {
+        "theater": "2013-11-15",
+        "dvd": "2014-02-25"
+      },
+      "ratings": {
+        "critics_rating": "Certified Fresh",
+        "critics_score": 92,
+        "audience_rating": "Upright",
+        "audience_score": 86
+      },
+      "synopsis": "Director Alexander Payne (Sideways, The Descendants) takes the helm for this black and white road trip drama starring Bruce Dern as a tempestuous Missouri father who's convinced he's won a million dollar magazine sweepstakes, and Will Forte as the son who grudgingly agrees to drive him to Nebraska to claim his winnings. Bob Odenkirk and Stacy Keach costar. ~ Jason Buchanan, Rovi",
+      "posters": {
+        "thumbnail": "http://content6.flixster.com/movie/11/17/64/11176448_mob.jpg",
+        "profile": "http://content6.flixster.com/movie/11/17/64/11176448_pro.jpg",
+        "detailed": "http://content6.flixster.com/movie/11/17/64/11176448_det.jpg",
+        "original": "http://content6.flixster.com/movie/11/17/64/11176448_ori.jpg"
+      },
+      "abridged_cast": [
+        {
+          "name": "Bruce Dern",
+          "id": "162658850",
+          "characters": [
+            "Woody Grant"
+          ]
+        },
+        {
+          "name": "Will Forte",
+          "id": "770670480",
+          "characters": [
+            "David Grant"
+          ]
+        },
+        {
+          "name": "Bob Odenkirk",
+          "id": "162655310",
+          "characters": [
+            "Ross Grant"
+          ]
+        },
+        {
+          "name": "Stacy Keach",
+          "id": "162678778",
+          "characters": [
+            "Ed Pegram"
+          ]
+        },
+        {
+          "name": "Devin Ratray",
+          "id": "770742232",
+          "characters": [
+            "Cole"
+          ]
+        }
+      ],
+      "alternate_ids": {
+        "imdb": "1821549"
+      },
+      "links": {
+        "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/771355253.json",
+        "alternate": "http://www.rottentomatoes.com/m/nebraska/",
+        "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/771355253/cast.json",
+        "clips": "http://api.rottentomatoes.com/api/public/v1.0/movies/771355253/clips.json",
+        "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/771355253/reviews.json",
+        "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/771355253/similar.json"
+      }
+    },
+    {
+      "id": "770682443",
+      "title": "Mr. Nobody",
+      "year": 2013,
+      "mpaa_rating": "R",
+      "runtime": 155,
+      "release_dates": {
+        "theater": "2013-11-01",
+        "dvd": "2014-02-25"
+      },
+      "ratings": {
+        "critics_rating": "Fresh",
+        "critics_score": 69,
+        "audience_rating": "Upright",
+        "audience_score": 80
+      },
+      "synopsis": "A young boy stands on a station platform. The train is about to leave. Should he go with his mother or stay with his father? An infinity of possibilities rise from this decision. As long as he doesn't choose, anything is possible. Every life deserves to be lived. (c) Magnolia",
+      "posters": {
+        "thumbnail": "http://content6.flixster.com/movie/11/17/32/11173220_mob.jpg",
+        "profile": "http://content6.flixster.com/movie/11/17/32/11173220_pro.jpg",
+        "detailed": "http://content6.flixster.com/movie/11/17/32/11173220_det.jpg",
+        "original": "http://content6.flixster.com/movie/11/17/32/11173220_ori.jpg"
+      },
+      "abridged_cast": [
+        {
+          "name": "Jared Leto",
+          "id": "162653925",
+          "characters": [
+            "Nemo"
+          ]
+        },
+        {
+          "name": "Diane Kruger",
+          "id": "162659094",
+          "characters": [
+            "Anna"
+          ]
+        },
+        {
+          "name": "Sarah Polley",
+          "id": "162692474",
+          "characters": [
+            "Elise"
+          ]
+        },
+        {
+          "name": "Linh-Dan Pham",
+          "id": "770835228",
+          "characters": [
+            "Jeanne"
+          ]
+        },
+        {
+          "name": "Natasha Little",
+          "id": "770688016",
+          "characters": [
+            "Nemo's Mother"
+          ]
+        }
+      ],
+      "alternate_ids": {
+        "imdb": "0485947"
+      },
+      "links": {
+        "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/770682443.json",
+        "alternate": "http://www.rottentomatoes.com/m/mr-nobody/",
+        "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/770682443/cast.json",
+        "clips": "http://api.rottentomatoes.com/api/public/v1.0/movies/770682443/clips.json",
+        "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/770682443/reviews.json",
+        "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/770682443/similar.json"
+      }
+    },
+    {
+      "id": "770673035",
+      "title": "Ender's Game",
+      "year": 2013,
+      "mpaa_rating": "PG-13",
+      "runtime": 113,
+      "critics_consensus": "If it isn't quite as thought-provoking as the book, Ender's Game still manages to offer a commendable number of well-acted, solidly written sci-fi thrills.",
+      "release_dates": {
+        "theater": "2013-11-01",
+        "dvd": "2014-02-11"
+      },
+      "ratings": {
+        "critics_rating": "Fresh",
+        "critics_score": 61,
+        "audience_rating": "Upright",
+        "audience_score": 70
+      },
+      "synopsis": "In the near future, a hostile alien race (called the Formics) have attacked Earth. If not for the legendary heroics of International Fleet Commander Mazer Rackham (Ben Kingsley), all would have been lost. In preparation for the next attack, the highly esteemed Colonel Hyrum Graff (Harrison Ford) and the International Military are training only the best young children to find the future Mazer. Ender Wiggin (Asa Butterfield), a shy, but strategically brilliant boy is pulled out of his school to join the elite. Arriving at Battle School, Ender quickly and easily masters increasingly difficult war games, distinguishing himself and winning respect amongst his peers. Ender is soon ordained by Graff as the military's next great hope, resulting in his promotion to Command School. Once there, he's trained by Mazer Rackham, himself, to lead his fellow soldiers into an epic battle that will determine the future of Earth and save the human race. Based on the best-selling, award winning novel, ENDER'S GAME is an epic adventure which stars Asa Butterfield, Hailee Steinfeld, Ben Kingsley, Viola Davis, with Abigail Breslin and Harrison Ford. -- (C) Summit",
+      "posters": {
+        "thumbnail": "http://content6.flixster.com/movie/11/17/62/11176212_mob.jpg",
+        "profile": "http://content6.flixster.com/movie/11/17/62/11176212_pro.jpg",
+        "detailed": "http://content6.flixster.com/movie/11/17/62/11176212_det.jpg",
+        "original": "http://content6.flixster.com/movie/11/17/62/11176212_ori.jpg"
+      },
+      "abridged_cast": [
+        {
+          "name": "Asa Butterfield",
+          "id": "770800323",
+          "characters": [
+            "Ender Wiggin"
+          ]
+        },
+        {
+          "name": "Harrison Ford",
+          "id": "162661579",
+          "characters": [
+            "Colonel Hyrum Graff"
+          ]
+        },
+        {
+          "name": "Hailee Steinfeld",
+          "id": "771070631",
+          "characters": [
+            "Petra Arkanian"
+          ]
+        },
+        {
+          "name": "Abigail Breslin",
+          "id": "162653854",
+          "characters": [
+            "Valentine Wiggin"
+          ]
+        },
+        {
+          "name": "Ben Kingsley",
+          "id": "162653703",
+          "characters": [
+            "Mazer Rackham"
+          ]
+        }
+      ],
+      "alternate_ids": {
+        "imdb": "0400403"
+      },
+      "links": {
+        "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/770673035.json",
+        "alternate": "http://www.rottentomatoes.com/m/enders-game/",
+        "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/770673035/cast.json",
+        "clips": "http://api.rottentomatoes.com/api/public/v1.0/movies/770673035/clips.json",
+        "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/770673035/reviews.json",
+        "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/770673035/similar.json"
+      }
+    },
+    {
+      "id": "771325911",
+      "title": "The Best Man Holiday",
+      "year": 2013,
+      "mpaa_rating": "R",
+      "runtime": 120,
+      "critics_consensus": "The Best Man Holiday manages honest laughs out of broad humor, and affects convincing drama from a deeply conventional plot.",
+      "release_dates": {
+        "theater": "2013-11-15",
+        "dvd": "2014-02-11"
+      },
+      "ratings": {
+        "critics_rating": "Fresh",
+        "critics_score": 68,
+        "audience_rating": "Upright",
+        "audience_score": 88
+      },
+      "synopsis": "After nearly 15 years apart, Taye Diggs (television's Private Practice), Nia Long (Soul Food), Morris Chestnut (Kick-Ass 2), Harold Perrineau (Zero Dark Thirty), Terrence Howard (Hustle & Flow), Sanaa Lathan (Contagion), Monica Calhoun (Love & Basketball), Melissa De Sousa (Miss Congeniality) and Regina Hall (Scary Movie franchise) reprise their career-launching roles in The Best Man Holiday, the long-awaited next chapter to the film that ushered in a new era of comedy. When the college friends finally reunite over the Christmas holidays, they will discover just how easy it is for long-forgotten rivalries and romances to be ignited. Malcolm D. Lee returns to write and direct this sequel to his directorial debut. Sean Daniel (The Mummy franchise) will produce alongside Lee for The Sean Daniel Company. (c) Universal Pictures",
+      "posters": {
+        "thumbnail": "http://content8.flixster.com/movie/11/17/61/11176170_mob.jpg",
+        "profile": "http://content8.flixster.com/movie/11/17/61/11176170_pro.jpg",
+        "detailed": "http://content8.flixster.com/movie/11/17/61/11176170_det.jpg",
+        "original": "http://content8.flixster.com/movie/11/17/61/11176170_ori.jpg"
+      },
+      "abridged_cast": [
+        {
+          "name": "Morris Chestnut",
+          "id": "162653531",
+          "characters": [
+            "Lance Sullivan"
+          ]
+        },
+        {
+          "name": "Taye Diggs",
+          "id": "162655514",
+          "characters": [
+            "Harper Stewart"
+          ]
+        },
+        {
+          "name": "Regina Hall",
+          "id": "162667054",
+          "characters": [
+            "Candace Murch"
+          ]
+        },
+        {
+          "name": "Terrence Howard",
+          "id": "162652991",
+          "characters": [
+            "Quentin Spivey"
+          ]
+        },
+        {
+          "name": "Sanaa Lathan",
+          "id": "162660192",
+          "characters": [
+            "Robin Stewart"
+          ]
+        }
+      ],
+      "alternate_ids": {
+        "imdb": "2083355"
+      },
+      "links": {
+        "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/771325911.json",
+        "alternate": "http://www.rottentomatoes.com/m/the_best_man_holiday_2013/",
+        "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/771325911/cast.json",
+        "clips": "http://api.rottentomatoes.com/api/public/v1.0/movies/771325911/clips.json",
+        "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/771325911/reviews.json",
+        "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/771325911/similar.json"
+      }
+    },
+    {
+      "id": "771324694",
+      "title": "The Counselor",
+      "year": 2013,
+      "mpaa_rating": "R",
+      "runtime": 117,
+      "critics_consensus": "The Counselor raises expectations with its talented cast and creative crew -- then subverts them with a wordy and clumsy suspense thriller that's mercilessly short on suspense or thrills.",
+      "release_dates": {
+        "theater": "2013-10-25",
+        "dvd": "2014-02-11"
+      },
+      "ratings": {
+        "critics_rating": "Rotten",
+        "critics_score": 34,
+        "audience_rating": "Spilled",
+        "audience_score": 25
+      },
+      "synopsis": "Legendary filmmaker Ridley Scott and Pulitzer Prize winning author Cormac McCarthy (No Country for Old Men) have joined forces in the motion picture thriller THE COUNSELOR, starring Michael Fassbender, Penelope Cruz, Cameron Diaz, Javier Bardem, and Brad Pitt. McCarthy, making his screenwriting debut and Scott interweave the author's characteristic wit and dark humor with a nightmarish scenario, in which a respected lawyer's one-time dalliance with an illegal business deal spirals out of control. (c) Official Site",
+      "posters": {
+        "thumbnail": "http://content9.flixster.com/movie/11/17/41/11174175_mob.jpg",
+        "profile": "http://content9.flixster.com/movie/11/17/41/11174175_pro.jpg",
+        "detailed": "http://content9.flixster.com/movie/11/17/41/11174175_det.jpg",
+        "original": "http://content9.flixster.com/movie/11/17/41/11174175_ori.jpg"
+      },
+      "abridged_cast": [
+        {
+          "name": "Michael Fassbender",
+          "id": "364641814",
+          "characters": [
+            "Counselor"
+          ]
+        },
+        {
+          "name": "Penelope Cruz",
+          "id": "162652351",
+          "characters": [
+            "Laura"
+          ]
+        },
+        {
+          "name": "Cameron Diaz",
+          "id": "162654443",
+          "characters": [
+            "Malkina"
+          ]
+        },
+        {
+          "name": "Javier Bardem",
+          "id": "162661456",
+          "characters": [
+            "Reiner"
+          ]
+        },
+        {
+          "name": "Brad Pitt",
+          "id": "162652627",
+          "characters": [
+            "Westray"
+          ]
+        }
+      ],
+      "alternate_ids": {
+        "imdb": "2193215"
+      },
+      "links": {
+        "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/771324694.json",
+        "alternate": "http://www.rottentomatoes.com/m/the_counselor_2013/",
+        "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/771324694/cast.json",
+        "clips": "http://api.rottentomatoes.com/api/public/v1.0/movies/771324694/clips.json",
+        "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/771324694/reviews.json",
+        "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/771324694/similar.json"
+      }
+    },
+    {
+      "id": "771354992",
+      "title": "All Is Lost",
+      "year": 2013,
+      "mpaa_rating": "PG-13",
+      "runtime": 105,
+      "critics_consensus": "Anchored by another tremendous performance in a career full of them, All Is Lost offers a moving, eminently worthwhile testament to Robert Redford's ability to hold the screen.",
+      "release_dates": {
+        "theater": "2013-10-18",
+        "dvd": "2014-02-11"
+      },
+      "ratings": {
+        "critics_rating": "Certified Fresh",
+        "critics_score": 93,
+        "audience_rating": "Upright",
+        "audience_score": 65
+      },
+      "synopsis": "Academy Award-nominated writer/director J.C. Chandor (Margin Call) takes the helm for this tense adventure drama about a man (Robert Redford) who must fight for survival after being lost at sea. ~ Jason Buchanan, Rovi",
+      "posters": {
+        "thumbnail": "http://content6.flixster.com/movie/11/17/61/11176192_mob.jpg",
+        "profile": "http://content6.flixster.com/movie/11/17/61/11176192_pro.jpg",
+        "detailed": "http://content6.flixster.com/movie/11/17/61/11176192_det.jpg",
+        "original": "http://content6.flixster.com/movie/11/17/61/11176192_ori.jpg"
+      },
+      "abridged_cast": [
+        {
+          "name": "Robert Redford",
+          "id": "162653875"
+        }
+      ],
+      "links": {
+        "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/771354992.json",
+        "alternate": "http://www.rottentomatoes.com/m/all_is_lost_2013/",
+        "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/771354992/cast.json",
+        "clips": "http://api.rottentomatoes.com/api/public/v1.0/movies/771354992/clips.json",
+        "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/771354992/reviews.json",
+        "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/771354992/similar.json"
+      }
+    },
+    {
+      "id": "9381",
+      "title": "The Jungle Book",
+      "year": 1967,
+      "mpaa_rating": "PG",
+      "runtime": 78,
+      "critics_consensus": "With expressive animation, fun characters, and catchy songs, The Jungle Book endures as a crowd-pleasing Disney classic.",
+      "release_dates": {
+        "theater": "1967-10-18",
+        "dvd": "2014-02-11"
+      },
+      "ratings": {
+        "critics_rating": "Fresh",
+        "critics_score": 88,
+        "audience_rating": "Upright",
+        "audience_score": 81
+      },
+      "synopsis": "",
+      "posters": {
+        "thumbnail": "http://content7.flixster.com/movie/25/07/250701_mob.jpg",
+        "profile": "http://content7.flixster.com/movie/25/07/250701_pro.jpg",
+        "detailed": "http://content7.flixster.com/movie/25/07/250701_det.jpg",
+        "original": "http://content7.flixster.com/movie/25/07/250701_ori.jpg"
+      },
+      "abridged_cast": [
+        {
+          "name": "Bruce Reitherman",
+          "id": "770703396",
+          "characters": [
+            "Mowgli the Man Cub"
+          ]
+        },
+        {
+          "name": "Phil Harris",
+          "id": "162655698",
+          "characters": [
+            "Baloo the Bear"
+          ]
+        },
+        {
+          "name": "Sebastian Cabot",
+          "id": "162655699",
+          "characters": [
+            "Bagheera the Panther"
+          ]
+        },
+        {
+          "name": "Louis Prima",
+          "id": "162655700",
+          "characters": [
+            "King Louie of the Apes"
+          ]
+        },
+        {
+          "name": "George Sanders",
+          "id": "162656536",
+          "characters": [
+            "Shere Khan the Tiger"
+          ]
+        }
+      ],
+      "alternate_ids": {
+        "imdb": "0061852"
+      },
+      "links": {
+        "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/9381.json",
+        "alternate": "http://www.rottentomatoes.com/m/1031385-jungle_book/",
+        "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/9381/cast.json",
+        "clips": "http://api.rottentomatoes.com/api/public/v1.0/movies/9381/clips.json",
+        "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/9381/reviews.json",
+        "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/9381/similar.json"
+      }
+    },
+    {
+      "id": "771318561",
+      "title": "Wadjda",
+      "year": 2013,
+      "mpaa_rating": "PG",
+      "runtime": 100,
+      "critics_consensus": "Transgressive in the best possible way, Wadjda presents a startlingly assured new voice from a corner of the globe where cinema has been all but silenced.",
+      "release_dates": {
+        "theater": "2013-09-13",
+        "dvd": "2014-02-11"
+      },
+      "ratings": {
+        "critics_rating": "Certified Fresh",
+        "critics_score": 99,
+        "audience_rating": "Upright",
+        "audience_score": 89
+      },
+      "synopsis": "WADJDA is a movie of firsts. This first feature film shot entirely in Saudi Arabia is the story of a young girl living in a suburb of Riyadh determined to raise enough money to buy a bike in a society that sees bicycles as dangerous to a girl's virtue. Even more impressive, WADJDA is the first feature film made by a female Saudi filmmaker. In a country where cinemas are banned and women cannot drive or vote, writer- director Haifaa Al Mansour has broken many barriers with her new film. (c) Sony Classics",
+      "posters": {
+        "thumbnail": "http://content9.flixster.com/movie/11/17/26/11172623_mob.jpg",
+        "profile": "http://content9.flixster.com/movie/11/17/26/11172623_pro.jpg",
+        "detailed": "http://content9.flixster.com/movie/11/17/26/11172623_det.jpg",
+        "original": "http://content9.flixster.com/movie/11/17/26/11172623_ori.jpg"
+      },
+      "abridged_cast": [
+        {
+          "name": "Reem Abdullah",
+          "id": "771423921",
+          "characters": [
+            "Mother"
+          ]
+        },
+        {
+          "name": "Abdullrahman Al Gohani",
+          "id": "771437987",
+          "characters": [
+            "Abdullah"
+          ]
+        },
+        {
+          "name": "Waad Mohammed",
+          "id": "771423923",
+          "characters": [
+            "Wadjda"
+          ]
+        },
+        {
+          "name": "Ahd",
+          "id": "771446832",
+          "characters": [
+            "Hussa"
+          ]
+        },
+        {
+          "name": "Sultan Al Assaf",
+          "id": "771423922",
+          "characters": [
+            "Father"
+          ]
+        }
+      ],
+      "alternate_ids": {
+        "imdb": "2258858"
+      },
+      "links": {
+        "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/771318561.json",
+        "alternate": "http://www.rottentomatoes.com/m/wadjda_2013/",
+        "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/771318561/cast.json",
+        "clips": "http://api.rottentomatoes.com/api/public/v1.0/movies/771318561/clips.json",
+        "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/771318561/reviews.json",
+        "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/771318561/similar.json"
+      }
+    }
+  ],
+  "links": {
+    "self": "http://api.rottentomatoes.com/api/public/v1.0/lists/dvds/new_releases.json?page_limit=16&country=us&page=1",
+    "next": "http://api.rottentomatoes.com/api/public/v1.0/lists/dvds/new_releases.json?page_limit=16&country=us&page=2",
+    "alternate": "http://www.rottentomatoes.com/dvd/new_releases.php"
+  },
+  "link_template": "http://api.rottentomatoes.com/api/public/v1.0/lists/dvds/new_releases.json?page_limit={results-per-page}&page={page-number}&country={country-code}"
+}

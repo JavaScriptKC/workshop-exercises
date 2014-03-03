@@ -31,5 +31,4 @@ entity_names = []
 for tree in chunked_sentences:
     entity_names.extend(extract_entity_names(tree))
 
-print set(entity_names)
-print json.dumps(sentences)
+print json.dumps(entity_names)

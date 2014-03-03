@@ -1,0 +1,240 @@
+[
+  {
+    "id": "771354992",
+    "title": "All Is Lost",
+    "named_entities": [
+      "Academy",
+      "Robert Redford",
+      "Jason Buchanan",
+      "Rovi"
+    ]
+  },
+  {
+    "id": "771316210",
+    "title": "12 Years a Slave",
+    "named_entities": [
+      "Chiwetel Ejiofor",
+      "Solomon Northup",
+      "New York State",
+      "New Orleans",
+      "Steve",
+      "McQueen",
+      "John Ridley",
+      "Northup",
+      "Michael Fassbender",
+      "Brad Pitt",
+      "Benedict Cumberbatch",
+      "Sarah Paulson",
+      "Paul Giamatti",
+      "Jeremy Wheeler",
+      "Rovi"
+    ]
+  },
+  {
+    "id": "771355253",
+    "title": "Nebraska",
+    "named_entities": [
+      "Director Alexander Payne",
+      "Bruce Dern",
+      "Will Forte",
+      "Nebraska",
+      "Bob Odenkirk",
+      "Stacy Keach",
+      "Jason Buchanan",
+      "Rovi"
+    ]
+  },
+  {
+    "id": "770682443",
+    "title": "Mr. Nobody",
+    "named_entities": []
+  },
+  {
+    "id": "771323481",
+    "title": "The Grandmaster",
+    "named_entities": [
+      "Directed",
+      "Wong Kar Wai",
+      "THE",
+      "Republican",
+      "China",
+      "Chinese",
+      "Filmed",
+      "Northeast China",
+      "South",
+      "THE",
+      "Asian",
+      "Tony Leung",
+      "Ziyi Zhang"
+    ]
+  },
+  {
+    "id": "771250004",
+    "title": "The Hunger Games: Catching Fire",
+    "named_entities": [
+      "HUNGER",
+      "Katniss Everdeen",
+      "Annual Hunger Games",
+      "Peeta Mellark",
+      "Capitol",
+      "Snow",
+      "Annual Hunger Games",
+      "Panem"
+    ]
+  },
+  {
+    "id": "771324694",
+    "title": "The Counselor",
+    "named_entities": [
+      "Ridley Scott",
+      "Pulitzer",
+      "Cormac",
+      "McCarthy",
+      "Old Men",
+      "THE COUNSELOR",
+      "Michael Fassbender",
+      "Penelope Cruz",
+      "Cameron Diaz",
+      "Javier Bardem",
+      "Brad Pitt",
+      "McCarthy",
+      "Scott"
+    ]
+  },
+  {
+    "id": "771318561",
+    "title": "Wadjda",
+    "named_entities": [
+      "WADJDA",
+      "Saudi Arabia",
+      "Riyadh",
+      "WADJDA",
+      "Saudi",
+      "Haifaa Al Mansour",
+      "Sony Classics"
+    ]
+  },
+  {
+    "id": "771351740",
+    "title": "Hours",
+    "named_entities": [
+      "Nolan Hayes",
+      "PAUL",
+      "New Orleans",
+      "Abigail",
+      "GENESIS",
+      "Nolan",
+      "Hurricane Katrina",
+      "Told",
+      "Nolan",
+      "Nolan"
+    ]
+  },
+  {
+    "id": "771319570",
+    "title": "Oldboy",
+    "named_entities": [
+      "OLDBOY",
+      "Joe Doucette",
+      "Elizabeth Olsen",
+      "Sharlto Copley",
+      "OLDBOY",
+      "Spike Lee",
+      "Mark Protosevich",
+      "Thor",
+      "Roy Lee",
+      "Doug Davison",
+      "Nathan Kahane"
+    ]
+  },
+  {
+    "id": "771247277",
+    "title": "Thor: The Dark World",
+    "named_entities": [
+      "Marvel",
+      "Dark World",
+      "Thor",
+      "Mighty Avenger",
+      "Earth",
+      "Marvel",
+      "Marvel",
+      "Faced",
+      "Odin",
+      "Asgard",
+      "Thor",
+      "Jane Foster"
+    ]
+  },
+  {
+    "id": "771355926",
+    "title": "The Last Days On Mars",
+    "named_entities": [
+      "Mars",
+      "Tantalus Base"
+    ]
+  },
+  {
+    "id": "771325911",
+    "title": "The Best Man Holiday",
+    "named_entities": [
+      "Taye Diggs",
+      "Nia Long",
+      "Morris Chestnut",
+      "Harold Perrineau",
+      "Terrence Howard",
+      "Flow",
+      "Sanaa Lathan",
+      "Monica Calhoun",
+      "Basketball",
+      "Melissa De Sousa",
+      "Regina Hall",
+      "Best Man",
+      "Christmas",
+      "Malcolm",
+      "Sean",
+      "Daniel",
+      "Lee",
+      "Sean Daniel Company",
+      "Universal Pictures"
+    ]
+  },
+  {
+    "id": "770673035",
+    "title": "Ender's Game",
+    "named_entities": [
+      "Formics",
+      "Earth",
+      "International Fleet Commander Mazer Rackham",
+      "Colonel Hyrum Graff",
+      "Harrison Ford",
+      "International",
+      "Ender Wiggin",
+      "Battle School",
+      "Ender",
+      "Ender",
+      "Graff",
+      "Command School",
+      "Mazer Rackham",
+      "Earth",
+      "ENDER",
+      "Hailee Steinfeld",
+      "Ben Kingsley",
+      "Viola Davis",
+      "Abigail Breslin",
+      "Harrison Ford"
+    ]
+  },
+  {
+    "id": "771205997",
+    "title": "Gravity",
+    "named_entities": [
+      "Gravity",
+      "Sandra Bullock",
+      "George Clooney",
+      "Bullock",
+      "Matt Kowalsky",
+      "Kowalsky",
+      "Earth"
+    ]
+  }
+]

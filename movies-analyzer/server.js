@@ -69,15 +69,15 @@ app.post('/check', function (req, res) {
    var neIsArray = _.every(answer, function (a) { return a.named_entities instanceof Array; });
 
    if (!isArray) {
-      return res.send(200, { 'resuts': [ PROVIDE_CORRECT_FORMAT, 'Answers is not an array.' ]});
+      return res.send(200, { 'results': [ PROVIDE_CORRECT_FORMAT, 'Answers is not an array.' ]});
    } 
 
    if (!hasExactKeys) {
-     return res.send(200, { 'resuts': [ PROVIDE_CORRECT_FORMAT, 'The objects in answer array do not match expected format.' ]}); 
+     return res.send(200, { 'results': [ PROVIDE_CORRECT_FORMAT, 'The objects in answer array do not match expected format.' ]}); 
    }
 
    if (!neIsArray) {
-     return res.send(200, { 'resuts': [ PROVIDE_CORRECT_FORMAT, 'The named entities must be an array' ]}); 
+     return res.send(200, { 'results': [ PROVIDE_CORRECT_FORMAT, 'The named entities must be an array' ]}); 
    }
 
    if (answer.length != analyzed.length) {

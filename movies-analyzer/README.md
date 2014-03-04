@@ -102,7 +102,7 @@ TIP: Make sure to specify the `Content-Type` header with value `application/json
 
 ### Step 3
 
-POST a JavaScript Array containing the results of Step 2 for verification. Here's an example with just one entry. Make sure to POST every entery.
+POST a JavaScript Array containing the results of Step 2 for verification. Here's an example with just one entry. Make sure to POST every entry.
 
 ```
 [{ 
@@ -118,3 +118,16 @@ POST a JavaScript Array containing the results of Step 2 for verification. Here'
       "Panem" ] 
 }]
 ```
+
+If your POST data is incorrect you will receive an object like this:
+
+```
+{
+   "results": [
+      "You must provide an array of objects with id and named_entities. Example [{ \"id\": \"1234\", \"named_entities\": [\"Joe\"] }]"
+    ]
+}
+```
+
+If your POST data is correct the response will simply be: `Perfect! Good job!`.
+

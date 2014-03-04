@@ -1,5 +1,8 @@
 var supertest = require('supertest');
 var api = supertest('http://localhost:3000');
+var request = require('request');
+var crypto = require('crypto');
+var assert = require('assert');
 
 describe('API', function () {
    it('should respond to / with unauthorized if there are no auth headers', function (done) {
@@ -58,4 +61,33 @@ describe('API', function () {
          .end(done);   
    });
 
+   it('should hash all data received using md5 algorithm', function (done) {
+      var rs = new require('stream').Readable();
+      var i = 0;
+      var md5sum = crypto.createHash('md5');
+      this.timeout(0);
+
+      rs._read = function () {
+         var val = String.fromCharCode(97 + Math.floor(Math.random() * 26));
+         if (i++ < 10000) {
+            md5sum.update(val);
+            this.push(val);
+         }
+         else {
+            this.push(null);
+         }
+      };
+
+      var options = {
+         url: 'http://localhost:3000/hash',
+         headers: {
+            'X-API-Key': 'abc123'
+         }
+      };
+
+      rs.pipe(request.post(options, function (e, r, body) {
+         assert.equal(JSON.parse(body).hash, md5sum.digest('hex'));
+         done(e);
+      }));
+   });
 });

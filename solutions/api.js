@@ -1,6 +1,7 @@
 var express = require('express');
 var app = express();
 var server = require('http').createServer(app);
+var crypto = require('crypto');
 
 app.configure(function () {
    app.set('port', 3000);
@@ -65,3 +66,16 @@ app.post('/transform', function (req, res) {
    res.setHeader('Content-Type', 'application/json');
    res.send(200, obj);
 });
+
+app.post('/hash', function (req, res) {
+   var md5sum = crypto.createHash('md5');
+
+   req.on('data', function (data) {
+      md5sum.update(data);
+   });
+
+   req.on('end', function () {
+      res.send({ hash: md5sum.digest('hex') });
+   });
+});
+

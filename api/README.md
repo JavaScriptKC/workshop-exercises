@@ -1,6 +1,6 @@
 # Overview
 
-In this excercise you'll learn how to put together some common API features. 
+In this exercise you'll learn how to put together some common API features. 
 
 Some topics you will learn:
 
